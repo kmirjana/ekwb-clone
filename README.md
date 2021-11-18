@@ -1,2 +1,2 @@
-# ekwb
+# ekwb-clone
 ekwb-clone-my-way
