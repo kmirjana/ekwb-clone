@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato";
+  line-height: 1.75;
+}
+.container {
+  border-bottom: 1px solid #3a3a3a;
+  position: relative;
+  background: #000000;
+}
+
+.header__top__navigation {
+  width: 90vw;
+  max-width: 1500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  font-family: "Lato", "Open Sans", sans-serif;
+  overflow: hidden;
+  z-index: 9;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}

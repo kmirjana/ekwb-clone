@@ -1,0 +1,8 @@
+.checkout {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  padding: 20px;
+  background: white;
+  height: max-content;
+}

@@ -1,0 +1,31 @@
+/* colors */
+/* * {
+  background-color: ;
+ background-color: #f89828;
+  background-color: #c76c05;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 75%/150% "Lato", sans-serif;
+  color: #777;
+  margin: 0;
+  line-height: 1.7;
+  background-image: linear-gradient(
+      to right bottom,
+     
+      rgba(248, 151, 40, 0.52), rgba(83, 8, 0, 0.548)
+    )
+    
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
